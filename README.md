@@ -1,0 +1,2 @@
+# djangoSkeletonApp
+pls work boi
